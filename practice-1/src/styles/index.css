@@ -143,3 +143,7 @@ body {
   background: #793FDF;
   height: 100vh;
 }
+
+.mt-50 {
+  margin-top: 50px;
+}
